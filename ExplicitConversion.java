@@ -1,11 +1,11 @@
 public class ExplicitConversion {
     public static void main(String [] args) {
-        float hasilUjian;
-        int hasilBulat;
+        float examResults;
+        int roundResults;
 
-        hasilUjian = 78.6f;
-        hasilBulat = (int) hasilUjian;
+        examResults = 78.6f;
+        roundResults = (int) examResults;
 
-        System.out.println("Hasil Bulat = " + hasilBulat);
+        System.out.println("Round result = " + roundResults);
     }
 }
