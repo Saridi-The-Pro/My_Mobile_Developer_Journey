@@ -1,5 +1,5 @@
 // Presentation of numbers 1 to 5
-//     using do...while
+//    using do...while
 
 import java.util.Scanner;
 
