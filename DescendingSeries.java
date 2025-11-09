@@ -1,5 +1,5 @@
 // Presentation of numbers 5 to 1
-//    using do...while
+//   using do...while
 
 public class DescendingSeries {
     public static void main (String[] args) {
