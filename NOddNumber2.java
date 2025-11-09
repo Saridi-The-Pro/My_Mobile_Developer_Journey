@@ -1,6 +1,6 @@
 // Presentation of a series of n odd numbers
-//    using do...while
-//    version 2
+//   using do...while
+//   version 2
 
 import java.util.Scanner;
 
