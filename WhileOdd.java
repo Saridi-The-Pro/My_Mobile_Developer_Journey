@@ -17,7 +17,7 @@ public class WhileOdd {
 
         count = 1;
         while (count <= n) {
-            System.out.println((2 * count - 1) + " ");
+            System.out.print((2 * count - 1) + " ");
 
             count = count + 1;
         }
